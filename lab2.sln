@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "comp2068-lab2", "ExpressApp1\comp2068-lab2.njsproj", "{623BAD25-48C1-4110-AE0C-385D9FB166AF}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "lab2", "ExpressApp1\lab2.njsproj", "{623BAD25-48C1-4110-AE0C-385D9FB166AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
